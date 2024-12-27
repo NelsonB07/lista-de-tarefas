@@ -110,3 +110,13 @@ main {
 .mdi-check-circle {
     color: green;
 }
+
+footer {
+    text-align: center;
+    padding-top: 400px;
+}
+footer > a {
+    text-decoration: none;
+    color: green;
+    
+}
